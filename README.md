@@ -13,9 +13,7 @@ I started on that service desk, which is why I build with the people who close t
 
 | Project | What it is |
 |---|---|
-| [**Cadre**](https://github.com/mejohnc-ft/cadre) | Self-hosted control plane for AI coworkers: a VM per agent, CEL policy before every action, audit after, credentials the agent never holds. Mac + Linux, multi-node over the tailnet. TypeScript · Postgres |
-| [**Shot Pill**](https://github.com/mejohnc-ft/dotshot) | Visual-context delivery for agentic coding: capture on your Mac, the file lands on the SSH host where your agent works, the remote path lands on your clipboard. Swift |
-| [**TerminalBrain**](https://github.com/mejohnc-ft/Franklin-Brain) | Apple Notes, Drafts and Obsidian exposed to agents over MCP, with governed writeback. Swift |
+| [**dotshot**](https://github.com/mejohnc-ft/dotshot) | Visual-context delivery for agentic coding: capture on your Mac, the file lands on the SSH host where your agent works, the remote path lands on your clipboard. Swift |
 | [**M365 Utilization Report**](https://github.com/mejohnc-ft/Rewst-M365-Utilization-Report) | Multi-tenant Microsoft 365 license, usage and cost reporting as a signed Rewst workflow. |
 | [**NotMyRouter**](https://github.com/mejohnc-ft/NotMyRouter) | Continuous probes that prove whether your ISP or your router is at fault. Python |
 
